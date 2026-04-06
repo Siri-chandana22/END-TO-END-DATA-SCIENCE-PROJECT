@@ -92,3 +92,20 @@ This Customer Churn Prediction project demonstrates a complete machine learning 
 
 ## Outputs
 
+<img width="884" height="354" alt="Image" src="https://github.com/user-attachments/assets/5ce251fe-3683-4cdb-ab67-a562ebf195d0" />
+
+<img width="966" height="327" alt="Image" src="https://github.com/user-attachments/assets/bb4738ce-2890-4911-b04b-d787649d56bf" />
+
+<img width="990" height="364" alt="Image" src="https://github.com/user-attachments/assets/dd07cf82-24dc-4387-9c5d-09963f6b07b5" />
+
+<img width="868" height="367" alt="Image" src="https://github.com/user-attachments/assets/d6b30eb1-5851-4065-a349-9ea96e3afb01" />
+
+<img width="570" height="367" alt="Image" src="https://github.com/user-attachments/assets/3774bf43-c44b-4824-af0d-b270dc2862e3" />
+
+<img width="857" height="327" alt="Image" src="https://github.com/user-attachments/assets/e5c5cd7c-e736-43c3-896d-f5fcc965886c" />
+
+<img width="458" height="82" alt="Image" src="https://github.com/user-attachments/assets/9ef130ac-be18-4a58-b5a9-b92e605b0680" />
+
+![Image](https://github.com/user-attachments/assets/e6076893-4772-4be7-9545-d638ea5f34fb)
+
+<img width="699" height="76" alt="Image" src="https://github.com/user-attachments/assets/37af51c7-38fc-4e73-9ceb-f11b1bad5b18" />
